@@ -1,0 +1,28 @@
+
+.carousel-item {
+    max-height: 800px;
+}
+
+.image-slide {
+    height: 100%;
+}
+
+.carousel-caption{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+}
+
+.carousel-caption a{
+    text-decoration: none;
+}
+
+.carousel-caption h4, p{
+    z-index: 2;
+    width: 100%;
+    color: white;
+}
+
+.cardImage {
+    height: 250px;
+}
